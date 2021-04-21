@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/freiburg-ai/freiburg-ai.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Since an increasing number of scientists at the University of Freiburg engage in artificial intelligence research, we have decided to establish a network, particularly for Ph.D. students and PostDocs, to create a collaborative environment beyond faculty borders and foster exchange concerning various topics in AI research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The University of Freiburg identifies data analysis and artificial intelligence as one of the university-wide profile fields. The profile field with its speakers, Prof. Dr. Wolfram Burgard, Prof. Dr. Harald Binder, and Prof. Dr. Frank Hutter, has set itself the goal of deepening interdisciplinary cooperation in the field of artificial intelligence at our university.
+
+To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mission
 
-```markdown
-Syntax highlighted code block
+Our mission is to create, grow, and sustain a collaborative environment for Ph.D. and Postdoc researchers in the field of artificial intelligence. We want to become familiar with the expertise of different groups and possible opportunities to collaborate and help each other in a friendly environment. The important aim of this community is to increase the number of university-wide artificial intelligence-related events and share these possibilities with all active researchers in this field.
 
-# Header 1
-## Header 2
-### Header 3
+### Values
 
-- Bulleted
-- List
+* Teamwork
+* Innovation
+* Curiosity
+* Diversity
+* Trust
+* Respect
+* Empowerment
+* Kindness
 
-1. Numbered
-2. List
+### Strategy
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freiburg-ai/freiburg-ai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To be able to achieve our goals we are planning to encourage more members to be part of our community and hold workshops and science slams, invite keynote speakers, plan leisure time together to make the environment more friendly. As the first step, we have designed a short survey to know more about the preferences and how much time the members want to spend to participate in the community plans. After gathering this information, we are able to define some measurable operational goals.
