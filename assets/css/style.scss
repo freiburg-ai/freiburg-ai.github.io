@@ -2,19 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-header {
-width:270px;
-float:left;
--webkit-font-smoothing:subpixel-antialiased;
-}
-header {
-padding-right:560px;
-}
-section {
-width:600px;
-float:right;
-padding-bottom:50px;
-}
 a {
 color: #004A99;
 }
