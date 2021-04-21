@@ -6,6 +6,24 @@ The University of Freiburg identifies data analysis and artificial intelligence 
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
+### Key programs and collaborative projects
+
+* SFB 992 – ZO1: [Deep-Sequencing/Bioinformatics](https://www.sfb992.uni-freiburg.de/research/projects/z1/)
+* SFB/TRR 167 – ZO1: [Genomics and bioinformatics core](http://www.sfb-trr167.uni-freiburg.de/projects/genomics-and-bioinformatics-core/)
+* SFB1140 – Z02: Spatio-temporal analysis of confocal microscopic kidney data
+* BMBF project: de.NBI – Leistungszentrum: RBC – RNA Bioinformatic ([Galaxy Project](http://www.bioinf.uni-freiburg.de/Galaxy/index.html?de))
+* BMBF project: [Deep-PTL: Life-long learning with flexible data modalities for automation](https://lmb.informatik.uni-freiburg.de/research/funded_projects/bmbf_deepptl/)
+* BMBF project: [Deep Topology Learning](https://keuperj.github.io/DeToL/)
+* EU H2020: [TrimBot – a gardening robot for rose, hedge and topiary trimming](https://lmb.informatik.uni-freiburg.de/research/funded_projects/eu_trimbot/)
+
+### Participating faculties and research centers
+
+* [Faculty of Engineering](https://www.tf.uni-freiburg.de/en/research)
+* Faculty of [Mathematics](https://www.math.uni-freiburg.de/forschung/index.html?l=en) and [Physics](https://www.physik.uni-freiburg.de/research/forschungsgruppen_en?set_language=en)
+* [Intelligent Machine-Brain Interfacing Technology (IMBIT)](https://www.brainlinks-braintools.uni-freiburg.de/imbit/)
+* Freiburger Galaxy-Server
+* [Freiburg Center for Data Analysis and Modeling (FDM)](http://www.fdm.uni-freiburg.de/)
+
 ### Mission
 
 Our mission is to create, grow, and sustain a collaborative environment for Ph.D. and Postdoc researchers in the field of artificial intelligence. We want to become familiar with the expertise of different groups and possible opportunities to collaborate and help each other in a friendly environment. The important aim of this community is to increase the number of university-wide artificial intelligence-related events and share these possibilities with all active researchers in this field.
