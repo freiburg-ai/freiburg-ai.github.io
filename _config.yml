@@ -20,7 +20,11 @@
 
 title: Profile Field Data Analysis and Artificial Intelligence
 email: ai.profile.field@gmail.com
-description: "Our vision is to strengthen our research and collaborative skills in the AI field and empower every artificial intelligence-related group at the University of Freiburg."
+description: "Organizing committee: 
+* Kiana Farhadyar 
+* Göran Köber
+* Martin Treppner
+"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://freiburg-ai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
