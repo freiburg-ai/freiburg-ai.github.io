@@ -3,12 +3,12 @@
 
 @import "{{ site.theme }}";
 header {
-width:270px;
+width:360px;
 float:left;
 -webkit-font-smoothing:subpixel-antialiased;
 }
 header {
-padding-right:560px;
+padding-right:470px;
 }
 section {
 width:600px;
@@ -17,7 +17,4 @@ padding-bottom:50px;
 }
 a {
 color: #004A99;
-}
-body{
-    width:1500px;
 }
