@@ -6,8 +6,6 @@ The University of Freiburg identifies data analysis and artificial intelligence 
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
-### Markdown
-
 ### Mission
 
 Our mission is to create, grow, and sustain a collaborative environment for Ph.D. and Postdoc researchers in the field of artificial intelligence. We want to become familiar with the expertise of different groups and possible opportunities to collaborate and help each other in a friendly environment. The important aim of this community is to increase the number of university-wide artificial intelligence-related events and share these possibilities with all active researchers in this field.
