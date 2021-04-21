@@ -20,7 +20,7 @@
 
 title: Profile Field Data Analysis and Artificial Intelligence
 email: ai.profile.field@gmail.com
-description: "Organizing committee: [Kiana Farhadyar](https://www.uniklinik-freiburg.de/imbi/mitarbeiter.html?imbiuser=farhadya&cHash=9c5b5c85191cce64506adc76627c28aa), [Göran Köber](https://www.uniklinik-freiburg.de/imbi/mitarbeiter.html?imbiuser=koeber&cHash=06e5b7e7823a1878f3501f28359aafb0), [Martin Treppner](https://www.uniklinik-freiburg.de/imbi/mitarbeiter.html?imbiuser=treppner&cHash=c1be82b8135a3102b445a4c8ce950bac)"
+description: "Organizing committee: Kiana Farhadyar, Göran Köber, Martin Treppner"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://freiburg-ai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
