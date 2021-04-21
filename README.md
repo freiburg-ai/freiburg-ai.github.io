@@ -1,8 +1,8 @@
-## Welcome!
+## Welcome AI-enthusiasts!
 
 Since an increasing number of scientists at the University of Freiburg engage in artificial intelligence research, we have decided to establish a network, particularly for Ph.D. students and PostDocs, to create a collaborative environment beyond faculty borders and foster exchange concerning various topics in AI research.
 
-The University of Freiburg identifies data analysis and artificial intelligence as one of the university-wide profile fields. The profile field with its speakers, Prof. Dr. Wolfram Burgard, Prof. Dr. Harald Binder, and Prof. Dr. Frank Hutter, has set itself the goal of deepening interdisciplinary cooperation in the field of artificial intelligence at our university.
+The University of Freiburg identifies data analysis and artificial intelligence as one of the [university-wide profile fields](https://uni-freiburg.de/research/research-profile/). The profile field with its speakers, [Prof. Dr. Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/), [Prof. Dr. Harald Binder](https://www.uniklinik-freiburg.de/imbi/mitarbeiter.html?imbiuser=binderh&cHash=25474d715bfa2d216b434ede5e813202), and [Prof. Dr. Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/), has set itself the goal of deepening interdisciplinary cooperation in the field of artificial intelligence at our university.
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
