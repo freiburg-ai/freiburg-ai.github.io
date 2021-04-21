@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Profile Field: Data Analysis and Artificial Intelligence
-email: ai.profiel.field@gmail.com
+title: Profile Field Data Analysis and Artificial Intelligence
+email: ai.profile.field@gmail.com
 description: "Our vision is to strengthen our research and collaborative skills in the AI field and empower every artificial intelligence-related group at the University of Freiburg."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://freiburg-ai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
