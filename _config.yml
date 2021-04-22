@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Young Scientist AI Network
+title: Profile Field for Data Analysis and Artificial Intelligence 
 email: ai.profile.field@gmail.com
 description: "Organizing committee: Kiana Farhadyar, Göran Köber, Martin Treppner"
 baseurl: "" # the subpath of your site, e.g. /blog
