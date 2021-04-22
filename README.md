@@ -1,4 +1,4 @@
-## Profile Field Data Analysis and Artificial Intelligence 
+## University of Freiburg Profile Field for Data Analysis and Artificial Intelligence 
 
 Since an increasing number of scientists at the University of Freiburg engage in artificial intelligence research, we have decided to establish a network, particularly for Ph.D. students and PostDocs, to create a collaborative environment beyond faculty borders and foster exchange concerning various topics in AI research.
 
