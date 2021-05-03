@@ -25,8 +25,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://freiburg-ai.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-logo: university_freiburg_logo.png
-# logo: university_freiburg_logo_resized.png
+# logo: university_freiburg_logo.png
+logo: university_freiburg_logo_resized.png
 
 # Build settings
 plugins:
