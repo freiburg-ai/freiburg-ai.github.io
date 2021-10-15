@@ -42,3 +42,36 @@ Our mission is to create, grow, and sustain a collaborative environment for Ph.D
 ### Strategy
 
 To be able to achieve our goals we are planning to encourage more members to be part of our community and hold workshops and science slams, invite keynote speakers, plan leisure time together to make the environment more friendly. As the first step, we have designed a short survey to know more about the preferences and how much time the members want to spend to participate in the community plans. After gathering this information, we are able to define some measurable operational goals.
+
+### Episode 1
+
+<b>Date:</b>     November 12th, 2021
+
+<b>Time:</b>     9:30am – 5:00pm
+
+<b>Location:</b> HS 1199 in KG I
+
+<b>Speakers:</b> 
+* Anne-Laure Boulesteix (*Ludwig Maximilian University of Munich*)
+          
+* Chris Rackauckas (*Massachusetts Institute of Technology*)
+          
+* Ruslan Salakhutdinov (*Carnegie Mellon University*)
+          
+<b>Flash Talks:</b> Prize for the best talk
+          
+<b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
+
+<b>Schedule: </b>
+
+| Time  |  Plan | 
+|---|---|
+| 10:00-10:30 | Opening speech: by Prof. Dr. Stefan Rensing |
+| 10:30-11:30 | Invited I: Anne-Laure Boulesteix |
+| 11:30-13:00 | Lunch Break/Networking |
+| 13:00-13:30 | Flash Talks |
+| 13:30-14:30 | Invited II: Ruslan Salakhutdinov |
+| 14:30-15:00 | Coffee Break/Networking |
+| 15:00-16:00 | Invited III: Chris Rackauckas |
+| 16:00-17:00 | Future Outlook |
+| 17:00-Inf | Eating/Drinking together |
