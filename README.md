@@ -23,7 +23,7 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
           
 <b>Flash Talks:</b> Prize for the best talk
 <br>
-The flash talks are <b>five minutes</b> long, and the intention is to introduce your work in an understandable way to those outside your immediate field. It is better to concentrate on the method you have used/are using so that other researchers can also get inspired by it regardless of the application they have in mind. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
+The flash talks are five minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
           
 <b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
 
