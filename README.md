@@ -77,5 +77,6 @@ To be able to achieve our goals we are planning to encourage more members to be 
 | 16:30-17:00 | Future Outlook |
 | 17:00-Inf | Eating/Drinking together |
 
-<p></p>
+<p> </p>
+
 ![alt text](PFM_flyer_final.png)
