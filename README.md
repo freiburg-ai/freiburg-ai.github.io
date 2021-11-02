@@ -2,7 +2,7 @@
 
 Since an increasing number of scientists at the University of Freiburg engage in artificial intelligence research, we have decided to establish a network, particularly for Ph.D. students and PostDocs, to create a collaborative environment beyond faculty borders and foster exchange concerning various topics in AI research.
 
-The University of Freiburg identifies data analysis and artificial intelligence as one of the [university-wide profile fields](https://uni-freiburg.de/research/research-profile/). The profile field with its speakers, [Prof. Dr. Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/), [Prof. Dr. Harald Binder](https://www.uniklinik-freiburg.de/imbi/mitarbeiter.html?imbiuser=binderh&cHash=25474d715bfa2d216b434ede5e813202), [Prof. Dr. Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) and [Prof. Dr. Abhinav Valada](https://rl.uni-freiburg.de/people/valada) has set itself the goal of deepening interdisciplinary cooperation in the field of artificial intelligence at our university.
+The University of Freiburg identifies data analysis and artificial intelligence as one of the [university-wide profile fields](https://uni-freiburg.de/research/research-profile/). The profile field with its speakers, [Prof. Dr. Wolfram Burgard](http://www2.informatik.uni-freiburg.de/~burgard/), [Prof. Dr. Harald Binder](https://www.uniklinik-freiburg.de/imbi/mitarbeiter.html?imbiuser=binderh&cHash=25474d715bfa2d216b434ede5e813202) and [Prof. Dr. Frank Hutter](http://aad.informatik.uni-freiburg.de/people/hutter/) has set itself the goal of deepening interdisciplinary cooperation in the field of artificial intelligence at our university.
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
@@ -55,6 +55,8 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 * BMBF project: [Deep-PTL: Life-long learning with flexible data modalities for automation](https://lmb.informatik.uni-freiburg.de/research/funded_projects/bmbf_deepptl/)
 * BMBF project: [Deep Topology Learning](https://keuperj.github.io/DeToL/)
 * EU H2020: [TrimBot – a gardening robot for rose, hedge and topiary trimming](https://lmb.informatik.uni-freiburg.de/research/funded_projects/eu_trimbot/)
+* EU H220: [OpenDR - Open Deep Learning Toolkit for Robotics] (https://opendr.eu)
+* BMBF project: [ISA4.0 - Intelligent Sensor System for Autonomous Monitoring of Production Plants in Industry 4.0] (https://elektronikforschung.de/projekte/isa4.0)
 
 ### Participating faculties and research centers
 
