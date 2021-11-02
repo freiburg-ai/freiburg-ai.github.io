@@ -55,8 +55,8 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 * BMBF project: [Deep-PTL: Life-long learning with flexible data modalities for automation](https://lmb.informatik.uni-freiburg.de/research/funded_projects/bmbf_deepptl/)
 * BMBF project: [Deep Topology Learning](https://keuperj.github.io/DeToL/)
 * EU H2020: [TrimBot – a gardening robot for rose, hedge and topiary trimming](https://lmb.informatik.uni-freiburg.de/research/funded_projects/eu_trimbot/)
-* EU H220: [OpenDR - Open Deep Learning Toolkit for Robotics] (https://opendr.eu)
-* BMBF project: [ISA4.0 - Intelligent Sensor System for Autonomous Monitoring of Production Plants in Industry 4.0] (https://elektronikforschung.de/projekte/isa4.0)
+* EU H220: [OpenDR - Open Deep Learning Toolkit for Robotics](https://opendr.eu)
+* BMBF project: [ISA4.0 - Intelligent Sensor System for Autonomous Monitoring of Production Plants in Industry 4.0](https://elektronikforschung.de/projekte/isa4.0)
 
 ### Participating faculties and research centers
 
