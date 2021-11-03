@@ -50,13 +50,13 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 
 * SFB 992 – ZO1: [Deep-Sequencing/Bioinformatics](https://www.sfb992.uni-freiburg.de/research/projects/z1/)
 * SFB/TRR 167 – ZO1: [Genomics and bioinformatics core](http://www.sfb-trr167.uni-freiburg.de/projects/genomics-and-bioinformatics-core/)
-* SFB1140 – Z02: Spatio-temporal analysis of confocal microscopic kidney data
+* SFB 1453 – S1: [Planning, integrative analyses and modeling of high-dimensional data](https://www.sfb1453.uni-freiburg.de/research/projects/s1/) and INF: [Information Infrastructure Project for Research Data Management](https://www.sfb1453.uni-freiburg.de/research/projects/inf/) 
 * BMBF project: de.NBI – Leistungszentrum: RBC – RNA Bioinformatic ([Galaxy Project](http://www.bioinf.uni-freiburg.de/Galaxy/index.html?de))
 * BMBF project: [Deep-PTL: Life-long learning with flexible data modalities for automation](https://lmb.informatik.uni-freiburg.de/research/funded_projects/bmbf_deepptl/)
 * BMBF project: [Deep Topology Learning](https://keuperj.github.io/DeToL/)
+* BMBF project: [ISA4.0 - Intelligent Sensor System for Autonomous Monitoring of Production Plants in Industry 4.0](https://elektronikforschung.de/projekte/isa4.0)
 * EU H2020: [TrimBot – a gardening robot for rose, hedge and topiary trimming](https://lmb.informatik.uni-freiburg.de/research/funded_projects/eu_trimbot/)
 * EU H220: [OpenDR - Open Deep Learning Toolkit for Robotics](https://opendr.eu)
-* BMBF project: [ISA4.0 - Intelligent Sensor System for Autonomous Monitoring of Production Plants in Industry 4.0](https://elektronikforschung.de/projekte/isa4.0)
 
 ### Participating faculties and research centers
 
