@@ -33,7 +33,7 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 |---|---|
 | 09:30-9:45 | Opening speech: by Prof. Dr. Stefan Rensing |
 | 9:45-10:15 | Opening speech: by Prof. Dr. Harald Binder |
-| 10:15- 10:30 | Opening speech: organizing team |
+| 10:15- 10:30 | Opening speech: by organizing team |
 | 10:30-11:30 | Invited I: Anne-Laure Boulesteix (LMU) |
 | 11:30-13:00 | Lunch break (at the venue)|
 | 13:00-14:00 | Flash Talks |
