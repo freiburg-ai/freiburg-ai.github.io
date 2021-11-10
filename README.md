@@ -31,8 +31,9 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 
 | Time  |  Plan |
 |---|---|
-| 09:30-10:00 | Opening speech: by Prof. Dr. Stefan Rensing |
-| 10:00-10:30 | Speech by one of the profile field speakers |
+| 09:30-9:45 | Opening speech: by Prof. Dr. Stefan Rensing |
+| 9:45-10:15 | Opening speech: by Prof. Dr. Harald Binder |
+| 10:15- 10:30 | Opening speech: organizing team |
 | 10:30-11:30 | Invited I: Anne-Laure Boulesteix (LMU) |
 | 11:30-13:00 | Lunch break (at the venue)|
 | 13:00-14:00 | Flash Talks |
@@ -40,7 +41,7 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 | 14:30-15:30 | Invited II: Ruslan Salakhutdinov (CMU) |
 | 15:30-16:30 | Invited III: Chris Rackauckas (MIT)|
 | 16:30-17:00 | Future Outlook |
-| 17:00-Inf | Eating/Drinking together |
+| 17:00-Inf | Dinner at "Blauer Fuchs" |
 
 <br>
 
