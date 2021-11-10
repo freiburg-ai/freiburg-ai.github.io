@@ -84,3 +84,10 @@ Our mission is to create, grow, and sustain a collaborative environment for Ph.D
 ### Strategy
 
 To be able to achieve our goals we are planning to encourage more members to be part of our community and hold workshops and science slams, invite keynote speakers, plan leisure time together to make the environment more friendly. As the first step, we have designed a short survey to know more about the preferences and how much time the members want to spend to participate in the community plans. After gathering this information, we are able to define some measurable operational goals.
+
+
+### How to get involved?
+
+In case you want to be part of organization team, please drop us an email: treppner@imbi.uni-freiburg.de
+
+
