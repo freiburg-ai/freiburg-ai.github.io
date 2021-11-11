@@ -89,6 +89,6 @@ To be able to achieve our goals we are planning to encourage more members to be 
 
 ### How to get involved?
 
-In case you want to be part of organization team, please [drop us an email](mailto:treppner@imbi.uni-freiburg.de).
+If you want to be part of the organization team or get emails from us regarding nextgen_ai activities, please [drop us an email](mailto:treppner@imbi.uni-freiburg.de).
 
 
