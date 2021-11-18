@@ -18,10 +18,10 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 * Anne-Laure Boulesteix (*Ludwig Maximilian University of Munich*)
 
 * Ruslan Salakhutdinov (*Carnegie Mellon University*)
-<embed width="420" height="315" src="https://www.youtube.com/watch?v=geYGg7ikrp0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></embed>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=geYGg7ikrp0)
           
 * Chris Rackauckas (*Massachusetts Institute of Technology*)
-<embed width="420" height="315" src="https://www.youtube.com/watch?v=FihLyzdjN_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></embed>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=FihLyzdjN_8)
           
 
           
