@@ -19,12 +19,11 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 * <b>Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
 <br><br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/geYGg7ikrp0/0.jpg)](https://www.youtube.com/watch?v=geYGg7ikrp0)
+[![IMAGE ALT TEXT HERE](russ.PNG)](https://www.youtube.com/watch?v=geYGg7ikrp0)
           
 * <b>Chris Rackauckas</b> (*Massachusetts Institute of Technology*)
 <br><br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FihLyzdjN_8/0.jpg)](https://www.youtube.com/watch?v=FihLyzdjN_8)
-          
+[![IMAGE ALT TEXT HERE](chris.PNG)](https://www.youtube.com/watch?v=FihLyzdjN_8)          
 
           
 <b>Flash Talks:</b> Prize for the best talk
