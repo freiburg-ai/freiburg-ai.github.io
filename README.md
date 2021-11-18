@@ -15,14 +15,14 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 <b>Location:</b> HS 1199 in KG I
 
 <b>Speakers:</b> 
-* Anne-Laure Boulesteix (*Ludwig Maximilian University of Munich*)
+* <b>Anne-Laure Boulesteix </b> (*Ludwig Maximilian University of Munich*)
 
-* Ruslan Salakhutdinov (*Carnegie Mellon University*)
-<br>
+* <b>Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
+<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/geYGg7ikrp0/0.jpg)](https://www.youtube.com/watch?v=geYGg7ikrp0)
           
-* Chris Rackauckas (*Massachusetts Institute of Technology*)
-<br>
+* <b>Chris Rackauckas</b> (*Massachusetts Institute of Technology*)
+<br><br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FihLyzdjN_8/0.jpg)](https://www.youtube.com/watch?v=FihLyzdjN_8)
           
 
