@@ -29,10 +29,13 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 <b>Flash Talks:</b> Prize for the best talk
 <br>
 First prize winner: SimpleBits: Less Bits for more Interpretability by Robin Schirrmeister
+<br>
 Second prize winner: Denosising and Segmentation Methods for Light and Electron Microscopy by Joachim Greiner
+<br>
 Third prize winner: Learning the Optimal Analysis of Biomedical Data by Clemens Kreutz
+<br>
 
-<! ---The flash talks are five minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!-->
+<!-- The flash talks are five minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!-->
           
 <b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
 
