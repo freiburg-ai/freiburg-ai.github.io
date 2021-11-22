@@ -14,7 +14,7 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 <b>Location:</b> HS 1199 in KG I
 
-<b>Speakers:</b> 
+#### Speakers:
 * <b>Anne-Laure Boulesteix </b> (*Ludwig Maximilian University of Munich*)
 
 * <b>Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
@@ -46,7 +46,7 @@ By Clemens Kreutz
 <b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
 -->
 
-<b>Schedule: </b>
+#### Schedule: 
 
 | Time  |  Plan |
 |---|---|
