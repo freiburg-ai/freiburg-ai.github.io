@@ -16,15 +16,12 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 #### Speakers:
 * <b>Anne-Laure Boulesteix </b> (*Ludwig Maximilian University of Munich*)
-<br>
 [![IMAGE ALT TEXT HERE](anne-laure.png)](https://www.youtube.com/watch?v=uRf-ga0pZlw)
 
 * <b>Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
-<br>
 [![IMAGE ALT TEXT HERE](russ.PNG)](https://www.youtube.com/watch?v=geYGg7ikrp0)
   
 * <b>Chris Rackauckas</b> (*Massachusetts Institute of Technology*)
-<br>
 [![IMAGE ALT TEXT HERE](chris.PNG)](https://www.youtube.com/watch?v=FihLyzdjN_8)         
 
 
