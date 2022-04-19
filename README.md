@@ -14,10 +14,8 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 ### Day 1: Talks
 #### Time: 
-<br>
 9:30am – 5:00pm
 #### Location: 
-<br>
 HS Otto-Krayer-Haus
 #### Speakers:
 * <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
@@ -54,10 +52,8 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 ### Day 2: Workshop on AutoML with Auto-sklearn
 #### Time: 
 9:30am – 5:00pm
-<br>
 #### Location: 
 Seminar room 00006, ZfN, Albertstraße 23
-<br>
 #### Schedule: 
 
 | Time  |  Plan |
