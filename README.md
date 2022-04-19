@@ -9,7 +9,8 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 ## Episode 2
 
-<b>Date:</b>     June 9th and 10th, 2022
+### Date:     
+June 9th and 10th, 2022
 
 
 ### Day 1: Talks
