@@ -70,13 +70,16 @@ Seminar room 00006, ZfN, Albertstraße 23
 <br>
 ## Episode 1
 
-<b>Date:</b>     November 12th, 2021
+### Date:
+November 12th, 2021
 
-<b>Time:</b>     9:30am – 5:00pm
+### Time:
+9:30am – 5:00pm
 
-<b>Location:</b> HS 1199 in KG I
+### Location:
+HS 1199 in KG I
 
-#### Speakers:
+### Speakers:
 * <b>Anne-Laure Boulesteix </b> (*Ludwig Maximilian University of Munich*)
 [![IMAGE ALT TEXT HERE](anne-laure.png)](https://www.youtube.com/watch?v=uRf-ga0pZlw)
 
@@ -88,7 +91,7 @@ Seminar room 00006, ZfN, Albertstraße 23
 
 
           
-#### Flash Talks:
+### Flash Talks:
 <br>
 <b>First prize winner:</b> SimpleBits: Less Bits for more Interpretability 
 <br>
@@ -106,7 +109,7 @@ By Clemens Kreutz
 <b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
 -->
 
-#### Schedule: 
+### Schedule: 
 
 | Time  |  Plan |
 |---|---|
@@ -124,7 +127,7 @@ By Clemens Kreutz
 
 ![alt text](PFM_flyer_final.png)
 
-### Key programs and collaborative projects
+## Key programs and collaborative projects
 
 * SFB 992 – ZO1: [Deep-Sequencing/Bioinformatics](https://www.sfb992.uni-freiburg.de/research/projects/z1/)
 * SFB/TRR 167 – ZO1: [Genomics and bioinformatics core](http://www.sfb-trr167.uni-freiburg.de/projects/genomics-and-bioinformatics-core/)
@@ -138,7 +141,7 @@ By Clemens Kreutz
 * EU H2020: [OpenDR - Open Deep Learning Toolkit for Robotics](https://opendr.eu)
 * Carl Zeiss Foundation: [Responsible and Scalable Learning for Robots Assisting Humans (ReScaLe)](https://rl.uni-freiburg.de/funded-projects) 
 
-### Participating faculties and research centers
+## Participating faculties and research centers
 
 * [Faculty of Engineering](https://www.tf.uni-freiburg.de/en/research)
 * Faculty of [Mathematics](https://www.math.uni-freiburg.de/forschung/index.html?l=en) and [Physics](https://www.physik.uni-freiburg.de/research/forschungsgruppen_en?set_language=en)
@@ -146,11 +149,11 @@ By Clemens Kreutz
 * Freiburger Galaxy-Server
 * [Freiburg Center for Data Analysis and Modeling (FDM)](http://www.fdm.uni-freiburg.de/)
 
-### Mission
+## Mission
 
 Our mission is to create, grow, and sustain a collaborative environment for Ph.D. and Postdoc researchers in the field of artificial intelligence. We want to become familiar with the expertise of different groups and possible opportunities to collaborate and help each other in a friendly environment. The important aim of this community is to increase the number of university-wide artificial intelligence-related events and share these possibilities with all active researchers in this field.
 
-### Values
+## Values
 
 * Teamwork
 * Innovation
@@ -161,12 +164,12 @@ Our mission is to create, grow, and sustain a collaborative environment for Ph.D
 * Empowerment
 * Kindness
 
-### Strategy
+## Strategy
 
 To be able to achieve our goals we are planning to encourage more members to be part of our community and hold workshops and science slams, invite keynote speakers, plan leisure time together to make the environment more friendly. As the first step, we have designed a short survey to know more about the preferences and how much time the members want to spend to participate in the community plans. After gathering this information, we are able to define some measurable operational goals.
 
 
-### How to get involved?
+## How to get involved?
 
 If you want to be part of the organization team or get emails from us regarding nextgen_ai activities, please [drop us an email](mailto:treppner@imbi.uni-freiburg.de).
 
