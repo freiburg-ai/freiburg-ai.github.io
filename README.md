@@ -12,7 +12,6 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 ### Date:     
 June 9th and 10th, 2022
 
-
 ### Day 1: Talks
 #### Time: 
 9:30am – 5:00pm
