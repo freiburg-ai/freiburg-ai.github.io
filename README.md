@@ -47,9 +47,12 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 <br>
 
 ### Day 2: Workshop on AutoML with Auto-sklearn
-#### Time: 9:30am – 5:00pm
-#### Location: Seminar room 00006, ZfN, Albertstraße 23
-
+#### Time: 
+9:30am – 5:00pm
+<br>
+#### Location: 
+Seminar room 00006, ZfN, Albertstraße 23
+<br>
 #### Schedule: 
 
 | Time  |  Plan |
@@ -63,7 +66,7 @@ The flash talks are five minutes long, and the intention is to introduce your wo
 
 ![alt text](flyer_final_E2.png)
 
-
+<br>
 ## Episode 1
 
 <b>Date:</b>     November 12th, 2021
@@ -117,8 +120,6 @@ By Clemens Kreutz
 | 15:30-16:30 | Invited III: Chris Rackauckas (MIT)|
 | 16:30-17:00 | Future Outlook |
 | 17:00-Inf | Dinner at "Blauer Fuchs" |
-
-<br>
 
 ![alt text](PFM_flyer_final.png)
 
