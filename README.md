@@ -6,7 +6,68 @@ The University of Freiburg identifies data analysis and artificial intelligence 
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
-### Episode 1
+
+## Episode 2
+
+<b>Date:</b>     June 9th and 10th, 2022
+
+
+### Day 1: Talks
+#### time: 9:30am – 5:00pm
+#### location: HS Otto-Krayer-Haus
+
+#### Speakers:
+* <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
+
+* <b>Thomas Brox </b> (*University of Freiburg*)
+  
+* <b>Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
+
+          
+#### Flash Talks:
+<br>
+<b>Still Open! Please tell us if you want to present your work in nectgen_ai episode 2 </b> 
+<br>
+
+<!-- The flash talks are five minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
+
+#### Schedule: 
+
+| Time  |  Plan |
+|---|---|
+| 09:30-9:45 | Opening speech |
+| 9:45-10:15 | Speech by one of the profile field speakers |
+| 10:15-10:30 | Introduction by orga team |
+| 10:30-11:30 | Imant Daunhawer and Thomas Sutter |
+| 11:30-13:00 | Break/Networking (at the venue)|
+| 13:00-14:00 | Flash Talks |
+| 14:00-15:00 | Thomas Brox |
+| 15:00-16:00 | Break/Networking |
+| 16:00-17:00 | Louis-Philippe Morency |
+| 17:00-Inf | Eating/Drinking together |
+
+<br>
+
+### Day 2: Workshop
+#### Topic: AutoML with Auto-Sklearn
+#### Time: 9:30am – 5:00pm
+#### Location: Seminar room 00006, ZfN, Albertstraße 23
+
+#### Schedule: 
+
+| Time  |  Plan |
+|---|---|
+| 09:45-10:00 | Welcome |
+| 10:00-11:00 | Introduction |
+| 11:00-12:00 | Coding I |
+| 12:00-13:00 | Break |
+| 13:00-15:00 | Coding II |
+| 15:00-17:00 | Break & Assignments |
+
+![alt text](flyer_final_E2.png)
+
+
+## Episode 1
 
 <b>Date:</b>     November 12th, 2021
 
@@ -52,7 +113,7 @@ By Clemens Kreutz
 |---|---|
 | 09:30-9:45 | Opening speech: by Prof. Dr. Stefan Rensing |
 | 9:45-10:15 | Opening speech: by Prof. Dr. Harald Binder |
-| 10:15-10:30 | Opening speech: by organizing team |
+| 10:15-10:30 | Introduction by orga team |
 | 10:30-11:30 | Invited I: Anne-Laure Boulesteix (LMU) |
 | 11:30-13:00 | Lunch break (at the venue)|
 | 13:00-14:00 | Flash Talks |
