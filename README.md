@@ -24,7 +24,7 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
           
 #### Flash Talks:
-<b>Still Open! Please tell us if you want to present your work in nectgen_ai episode 2 </b> 
+<b>Still Open! Please tell us if you want to present your work in nextgen_ai episode 2 </b> 
 <br>
 The flash talks are five minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
 
