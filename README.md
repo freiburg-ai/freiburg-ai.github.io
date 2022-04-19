@@ -13,8 +13,12 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 
 ### Day 1: Talks
-#### Time: 9:30am – 5:00pm
-#### Location: HS Otto-Krayer-Haus
+#### Time: 
+<br>
+9:30am – 5:00pm
+#### Location: 
+<br>
+HS Otto-Krayer-Haus
 #### Speakers:
 * <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
 
@@ -152,14 +156,14 @@ Our mission is to create, grow, and sustain a collaborative environment for Ph.D
 
 ### Values
 
-* - Teamwork
-* - Innovation
-* - Curiosity
-* - Diversity
-* - Trust
-* - Respect
-* - Empowerment
-* - Kindness
+* Teamwork
+* Innovation
+* Curiosity
+* Diversity
+* Trust
+* Respect
+* Empowerment
+* Kindness
 
 ### Strategy
 
