@@ -107,8 +107,6 @@ By Robin Schirrmeister
 By Clemens Kreutz
 <br><br>
 
-<b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
-
 ### Schedule: 
 
 | Time  |  Plan |
