@@ -68,7 +68,7 @@ Seminar room 00006, ZfN, Albertstraße 23
 ![alt text](flyer_final_E2.png)
 
 #### Registration:
-</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSd54kCcFn8DRDZwxZxqQnYhWLLVHZap1X5ngv0fDMZVk9YNww/viewform" > Register here!</a>
+<a href ="https://docs.google.com/forms/d/e/1FAIpQLSd54kCcFn8DRDZwxZxqQnYhWLLVHZap1X5ngv0fDMZVk9YNww/viewform" > Register here!</a>
 <br>
 ## Episode 1
 
