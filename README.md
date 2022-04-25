@@ -25,12 +25,12 @@ HS Otto-Krayer-Haus
 * <b>Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
 
           
-#### Flash Talks:
+#### Short Talks:
 <b>Still Open!</b> 
 <br>
 (Please, tell us if you are interested in presenting your work in nextgen_ai, episode 2.)
 <br>
-The flash talks are five minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
+The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
 
 #### Schedule: 
 
@@ -67,6 +67,7 @@ Seminar room 00006, ZfN, Albertstraße 23
 
 ![alt text](flyer_final_E2.png)
 
+<b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSd54kCcFn8DRDZwxZxqQnYhWLLVHZap1X5ngv0fDMZVk9YNww/viewform" > Register here!</a>
 <br>
 ## Episode 1
 
@@ -107,7 +108,6 @@ By Clemens Kreutz
 <br><br>
 
 <b>Registration:</b> <a href ="https://docs.google.com/forms/d/e/1FAIpQLSc9di9MxqsCOAUCe5ps9lpisdNrEnSBIhjHW5yFSQW_915Imw/viewform" > Register here!</a>
--->
 
 ### Schedule: 
 
