@@ -93,8 +93,7 @@ HS 1199 in KG I
 
 
           
-### 
-Flash Talks:
+### Flash Talks:
 <br>
 <b>First prize winner:</b> SimpleBits: Less Bits for more Interpretability 
 <br>
