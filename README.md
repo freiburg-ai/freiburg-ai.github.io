@@ -30,7 +30,7 @@ HS Otto-Krayer-Haus
 <br>
 (Please, tell us if you are interested in presenting your work in nextgen_ai, episode 2.)
 <br>
-The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these flash talks are an excellent opportunity to start some collaborations outside your lab!
+The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab!
 
 #### Schedule: 
 
@@ -41,7 +41,7 @@ The short talks are 5-10 minutes long, and the intention is to introduce your wo
 | 10:15-10:30 | Introduction by orga team |
 | 10:30-11:30 | Imant Daunhawer and Thomas Sutter |
 | 11:30-13:00 | Break/Networking (at the venue)|
-| 13:00-14:00 | Flash Talks |
+| 13:00-14:00 | Short Talks |
 | 14:00-15:00 | Thomas Brox |
 | 15:00-16:00 | Break/Networking |
 | 16:00-17:00 | Louis-Philippe Morency |
@@ -93,7 +93,8 @@ HS 1199 in KG I
 
 
           
-### Flash Talks:
+### 
+Talks:
 <br>
 <b>First prize winner:</b> SimpleBits: Less Bits for more Interpretability 
 <br>
