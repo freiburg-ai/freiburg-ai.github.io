@@ -20,9 +20,9 @@ HS Otto-Krayer-Haus
 #### Speakers:
 * <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
 
-* <b>Thomas Brox </b> (*University of Freiburg*)
+* <b>Prof. Dr. Thomas Brox </b> (*University of Freiburg*)
   
-* <b>Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
+* <b>Prof. Dr. Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
 
           
 #### Short Talks:
