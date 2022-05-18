@@ -82,13 +82,13 @@ November 12th, 2021
 HS 1199 in KG I
 
 ### Speakers:
-* <b>Anne-Laure Boulesteix </b> (*Ludwig Maximilian University of Munich*)
+* <b>Prof. Dr. Anne-Laure Boulesteix </b> (*Ludwig Maximilian University of Munich*)
 [![IMAGE ALT TEXT HERE](anne-laure.png)](https://www.youtube.com/watch?v=uRf-ga0pZlw)
 
-* <b>Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
+* <b>Prof. Dr. Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
 [![IMAGE ALT TEXT HERE](russ.PNG)](https://www.youtube.com/watch?v=geYGg7ikrp0)
   
-* <b>Chris Rackauckas</b> (*Massachusetts Institute of Technology*)
+* <b>Dr. Chris Rackauckas</b> (*Massachusetts Institute of Technology*)
 [![IMAGE ALT TEXT HERE](chris.PNG)](https://www.youtube.com/watch?v=FihLyzdjN_8)         
 
 
