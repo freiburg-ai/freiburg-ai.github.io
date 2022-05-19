@@ -64,7 +64,7 @@ Seminar room 00006, ZfN, Albertstraße 23
 | 12:00-13:00 | Break |
 | 13:00-15:00 | Coding II |
 
-![alt text](flyer_final_E2.png)
+![alt text](flyer_final_E2.PNG)
 
 #### Registration:
 <a href ="https://docs.google.com/forms/d/e/1FAIpQLSd54kCcFn8DRDZwxZxqQnYhWLLVHZap1X5ngv0fDMZVk9YNww/viewform" > Register here!</a>
