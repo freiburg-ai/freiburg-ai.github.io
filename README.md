@@ -63,7 +63,6 @@ Seminar room 00006, ZfN, Albertstraße 23
 | 11:00-12:00 | Coding I |
 | 12:00-13:00 | Break |
 | 13:00-15:00 | Coding II |
-| 15:00-17:00 | Break & Assignments |
 
 ![alt text](flyer_final_E2.png)
 
