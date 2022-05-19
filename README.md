@@ -51,7 +51,7 @@ The short talks are 5-10 minutes long, and the intention is to introduce your wo
 
 ### Day 2: Workshop on AutoML with Auto-sklearn
 #### Time: 
-9:30am – 5:00pm
+9:30am – 3:00pm
 #### Location: 
 Seminar room 00006, ZfN, Albertstraße 23
 #### Schedule: 
