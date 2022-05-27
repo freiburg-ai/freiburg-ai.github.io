@@ -39,12 +39,12 @@ The short talks are 5-10 minutes long, and the intention is to introduce your wo
 | 09:30-9:45 | Opening speech |
 | 9:45-10:15 | Speech by one of the profile field speakers |
 | 10:15-10:30 | Introduction by orga team |
-| 10:30-11:30 | <b>Multimodal and Scalable VAEs</b> by <b>Imant Daunhawer and Thomas Sutter</b> |
+| 10:30-11:30 | Imant Daunhawer and Thomas Sutter: <b>Multimodal and Scalable VAEs</b> |
 | 11:30-13:00 | Break/Networking (at the venue)|
 | 13:00-14:00 | Short Talks |
-| 14:00-15:00 | <b>Paths Towards Open World Regularization</b> by <b>Thomas Brox</b>|
+| 14:00-15:00 | Thomas Brox: <b>Paths Towards Open World Regularization</b> |
 | 15:00-16:00 | Break/Networking |
-| 16:00-17:00 | <b>Multimodal AI: Understanding Human Behaviors</b> by <b>Louis-Philippe Morency</b>|
+| 16:00-17:00 | Louis-Philippe Morency: <b>Multimodal AI: Understanding Human Behaviors</b>|
 | 17:00-Inf | Eating/Drinking together |
 
 <br>
