@@ -39,12 +39,12 @@ The short talks are 5-10 minutes long, and the intention is to introduce your wo
 | 09:30-9:45 | Opening speech |
 | 9:45-10:15 | Speech by one of the profile field speakers |
 | 10:15-10:30 | Introduction by orga team |
-| 10:30-11:30 | Imant Daunhawer and Thomas Sutter:  Multimodal and Scalable VAEs |
+| 10:30-11:30 | Multimodal and Scalable VAEs by <b>Imant Daunhawer and Thomas Sutter</b> |
 | 11:30-13:00 | Break/Networking (at the venue)|
 | 13:00-14:00 | Short Talks |
-| 14:00-15:00 | Thomas Brox: Paths Towards Open World Regularization |
+| 14:00-15:00 | Paths Towards Open World Regularization by <b>Thomas Brox</b>|
 | 15:00-16:00 | Break/Networking |
-| 16:00-17:00 | Louis-Philippe Morency: Multimodal AI: Understanding Human Behaviors |
+| 16:00-17:00 | Multimodal AI: Understanding Human Behaviors by <b>Louis-Philippe Morency</b>|
 | 17:00-Inf | Eating/Drinking together |
 
 <br>
