@@ -36,8 +36,7 @@ The short talks are 5-10 minutes long, and the intention is to introduce your wo
 
 | Time  |  Plan |
 |---|---|
-| 09:30-9:45 | Opening speech |
-| 9:45-10:15 | Speech by one of the profile field speakers |
+| 10:00-10:15 | Opening |
 | 10:15-10:30 | Introduction by orga team |
 | 10:30-11:30 | Imant Daunhawer and Thomas Sutter: <b>Multimodal and Scalable VAEs</b> |
 | 11:30-13:00 | Break/Networking (at the venue)|
