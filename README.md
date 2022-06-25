@@ -84,10 +84,10 @@ HS 1199 in KG I
 [![IMAGE ALT TEXT HERE](Boulesteix.png)](https://www.youtube.com/watch?v=uRf-ga0pZlw)
 
 * <b>Prof. Dr. Ruslan Salakhutdinov</b> (*Carnegie Mellon University*)
-[![IMAGE ALT TEXT HERE](Salakhutdinov.PNG)](https://www.youtube.com/watch?v=geYGg7ikrp0)
+[![IMAGE ALT TEXT HERE](Salakhutdinov.png)](https://www.youtube.com/watch?v=geYGg7ikrp0)
   
 * <b>Dr. Chris Rackauckas</b> (*Massachusetts Institute of Technology*)
-[![IMAGE ALT TEXT HERE](Rackauckaus.PNG)](https://www.youtube.com/watch?v=FihLyzdjN_8)         
+[![IMAGE ALT TEXT HERE](Rackauckas.png)](https://www.youtube.com/watch?v=FihLyzdjN_8)         
 
 
           
