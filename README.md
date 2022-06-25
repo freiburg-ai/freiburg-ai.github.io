@@ -19,11 +19,11 @@ June 9th and 10th, 2022
 HS Otto-Krayer-Haus
 #### Speakers:
 * <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
-
+[![IMAGE ALT TEXT HERE](ETH.png)](https://www.youtube.com/watch?v=V7EPXWFNo5k)
 * <b>Prof. Dr. Thomas Brox </b> (*University of Freiburg*)
-  
+  [![IMAGE ALT TEXT HERE](Brox.png)](https://www.youtube.com/watch?v=wMTwlQbx8Fw&t)
 * <b>Prof. Dr. Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
-
+[![IMAGE ALT TEXT HERE](Morency.png)](https://www.youtube.com/watch?v=gYvdzDsGGhQ&t)
           
 #### Short Talks:
 <b>Still Open!</b> 
