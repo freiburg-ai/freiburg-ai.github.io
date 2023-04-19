@@ -6,12 +6,10 @@ The University of Freiburg identifies data analysis and artificial intelligence 
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
-
-## Episode 2
-
+## Episode 3 coming soon!
 ### Date:     
-June 9th and 10th, 2022
-
+June 6th, 2023
+ <! --- 
 ### Day 1: Talks
 #### Time: 
 9:30am – 5:00pm
@@ -34,22 +32,6 @@ HS Otto-Krayer-Haus
 <br>
 The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab!
 
-#### Schedule: 
-
-| Time  |  Plan |
-|---|---|
-| 10:00-10:15 | Opening |
-| 10:15-10:30 | Introduction by orga team |
-| 10:30-11:30 | Imant Daunhawer and Thomas Sutter: <b>Multimodal and Scalable VAEs</b> |
-| 11:30-13:00 | Break/Networking (at the venue)|
-| 13:00-14:00 | Short Talks |
-| 14:00-15:00 | Thomas Brox: <b>Paths Towards Open World Regularization</b> |
-| 15:00-16:00 | Break/Networking |
-| 16:00-17:00 | Louis-Philippe Morency: <b>Multimodal AI: Understanding Human Behaviors</b>|
-| 17:00-Inf | Eating/Drinking together |
-
-<br>
-
 ### Day 2: Workshop on AutoML with Auto-sklearn
 #### Time: 
 9:30am – 3:00pm
@@ -67,9 +49,52 @@ Seminar room 00006, ZfN, Albertstraße 23
 
 ![alt text](flyer_final_E2.PNG)
 
+ --->
+## Episode 2
+
+### Date:     
+June 9th, 2022
+
+#### Time: 
+9:30am – 5:00pm
+#### Location: 
+HS Otto-Krayer-Haus
+#### Speakers:
+* <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
+[![IMAGE ALT TEXT HERE](ETH.png)](https://www.youtube.com/watch?v=V7EPXWFNo5k)
+
+* <b>Prof. Dr. Thomas Brox </b> (*University of Freiburg*)
+[![IMAGE ALT TEXT HERE](Brox.png)](https://www.youtube.com/watch?v=wMTwlQbx8Fw&t)
+  
+* <b>Prof. Dr. Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
+[![IMAGE ALT TEXT HERE](Morency.png)](https://www.youtube.com/watch?v=gYvdzDsGGhQ&t)
+          
+#### Short Talks:
+
+The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab!
+
+#### Schedule: 
+
+| Time  |  Plan |
+|---|---|
+| 10:00-10:15 | Opening |
+| 10:15-10:30 | Introduction by orga team |
+| 10:30-11:30 | Imant Daunhawer and Thomas Sutter: <b>Multimodal and Scalable VAEs</b> |
+| 11:30-13:00 | Break/Networking (at the venue)|
+| 13:00-14:00 | Short Talks |
+| 14:00-15:00 | Thomas Brox: <b>Paths Towards Open World Regularization</b> |
+| 15:00-16:00 | Break/Networking |
+| 16:00-17:00 | Louis-Philippe Morency: <b>Multimodal AI: Understanding Human Behaviors</b>|
+| 17:00-Inf | Eating/Drinking together |
+
+<br>
+
+
 #### Registration:
 <a href ="https://docs.google.com/forms/d/e/1FAIpQLSd54kCcFn8DRDZwxZxqQnYhWLLVHZap1X5ngv0fDMZVk9YNww/viewform" > Register here!</a>
 <br>
+
+
 ## Episode 1
 
 ### Date:
