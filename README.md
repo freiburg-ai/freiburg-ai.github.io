@@ -6,7 +6,7 @@ The University of Freiburg identifies data analysis and artificial intelligence 
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
-## Episode 3 coming soon!
+## Episode 3: coming soon!
 ### Date:     
 June 6th, 2023
 <!--- 
