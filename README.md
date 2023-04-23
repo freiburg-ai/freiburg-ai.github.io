@@ -30,22 +30,6 @@ HSII, Albertstraße 23
 <br>
 The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab! In this year's event, we are planning to invite master students as well. With this new format, short talks benefit PhD students who search for competent HiWi students to meet them in a friendly atmosphere. As a byproduct, master students can decide about their future based on more information.
 
-<>### Day 2: Workshop on AutoML with Auto-sklearn
-<>#### Time: 
-<>9:30am – 3:00pm
-<>#### Location: 
-<>Seminar room 00006, ZfN, Albertstraße 23
-<>#### Schedule: 
-
-<>| Time  |  Plan |
-<>|---|---|
-<>| 09:45-10:00 | Welcome |
-<>| 10:00-11:00 | Introduction |
-<>| 11:00-12:00 | Coding I |
-<>| 12:00-13:00 | Break |
-<>| 13:00-15:00 | Coding II |
-
-<>![alt text](flyer_final_E2.PNG) 
 
 ## Episode 2
 
