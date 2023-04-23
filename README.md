@@ -9,20 +9,19 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 ## Episode 3: coming soon!
 ### Date:     
 June 6th, 2023
-<!--- ### Day 1: Talks
+### Day 1: Talks
 #### Time: 
 9:30am – 5:00pm
 #### Location: 
 HS Otto-Krayer-Haus
 #### Speakers:
-* <b>Imant Daunhawer & Thomas Sutter </b> (*ETH Zürich*)
-[![IMAGE ALT TEXT HERE](ETH.png)](https://www.youtube.com/watch?v=V7EPXWFNo5k)
+* <b>Prof. Dr. Ribana Roscher </b> (*University of Bonn*)
 
-* <b>Prof. Dr. Thomas Brox </b> (*University of Freiburg*)
-[![IMAGE ALT TEXT HERE](Brox.png)](https://www.youtube.com/watch?v=wMTwlQbx8Fw&t)
+* <b>Leon Sixt </b> (*Free University of Berlin*)
   
-* <b>Prof. Dr. Louis-Philippe Morency </b> (*Carnegie Mellon University*)     
-[![IMAGE ALT TEXT HERE](Morency.png)](https://www.youtube.com/watch?v=gYvdzDsGGhQ&t)
+* <b>Stephan Alaniz </b> (*University of Tübingen*)
+
+* <b>Mathilde Caron </b> (*Google Inc*)  
           
 #### Short Talks:
 <b>Still Open!</b> 
