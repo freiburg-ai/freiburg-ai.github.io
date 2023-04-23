@@ -9,8 +9,7 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 ## Episode 3: coming soon!
 ### Date:     
 June 6th, 2023
-<!--- 
-### Day 1: Talks
+<!--- ### Day 1: Talks
 #### Time: 
 9:30am – 5:00pm
 #### Location: 
@@ -47,9 +46,8 @@ Seminar room 00006, ZfN, Albertstraße 23
 | 12:00-13:00 | Break |
 | 13:00-15:00 | Coding II |
 
-![alt text](flyer_final_E2.PNG)
+![alt text](flyer_final_E2.PNG) --->
 
---->
 ## Episode 2
 
 ### Date:     
