@@ -20,8 +20,6 @@ HSII, Albertstraße 23
 * <b>Leon Sixt </b> (*Free University of Berlin*)
   
 * <b>Stephan Alaniz </b> (*University of Tübingen*)
-
-* <b>Mathilde Caron </b> (*Google Inc*)  
           
 #### Short Talks:
 <b>Still Open!</b> 
