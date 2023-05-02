@@ -6,12 +6,12 @@ The University of Freiburg identifies data analysis and artificial intelligence 
 
 To ensure this cooperation also at the level of young scientists, we plan to bring together Ph.D. students and PostDocs from all faculties and institutions of the University of Freiburg to establish a highly interdisciplinary and diverse network of researchers to benefit from each other mutually. We are convinced it will be very valuable to know the approaches, issues, and techniques of people in other AI fields, invite exciting keynote speakers, and organize workshops based on common interests.
 
-## Episode 3: coming soon!
+## Episode 3
 ### Date:     
 June 6th and June 7th 2023
 ### Day 1: Talks
 #### Time: 
-9:30am – 5:00pm
+10:00am – 5:00pm
 #### Location: 
 HSII, Albertstraße 23
 #### Speakers:
@@ -26,10 +26,23 @@ HSII, Albertstraße 23
 <br>
 (Please, tell us if you are interested in presenting your work in nextgen_ai, episode 3.)
 <br>
-The short talks are 8 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab! In this year's event, we are planning to invite master students as well. With this new format, short talks benefit PhD students who search for competent HiWi students to meet them in a friendly atmosphere. As a byproduct, master students can decide about their future based on more information.
+The short talks are eight minutes long plus two minutes discussion, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab! In this year's event, we are planning to invite master students as well. With this new format, short talks benefit PhD students who search for competent HiWi students to meet them in a friendly atmosphere. As a byproduct, master students can decide about their future based on more information.
+#### Schedule: 
+
+| Time  |  Plan |
+|---|---|
+| 10:00-10:05 | Opening |
+| 10:05-11:00 | Talk I |
+| 11:00-12:00 | Talk II |
+| 12:00-13:30 | Lunch break |
+| 13:00-14:00 | Speed dating |
+| 14:00-15:30 | Short Talks |
+| 15:30-16:00 | Break |
+| 16:00-17:00 | Talk III |
+| 17:00-Inf | Eating/Drinking together |
 
 ### Day 2: Workshop on AutoML with Auto-sklearn
-#### Time: 
+#### Time: 9:30 - 12:30
 To be announced
 #### Location: 
 Stefan-Meier-Straße 26, Institute of Medical Biometry and Statistics
