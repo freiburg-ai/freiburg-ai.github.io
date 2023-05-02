@@ -42,6 +42,14 @@ The short talks are eight minutes long plus two minutes discussion, and the inte
 | 17:00-Inf | Eating/Drinking together |
 
 ### Day 2: Workshop on AutoML with Auto-sklearn
+
+Machine learning (ML) is essential to data-driven research and can be used to make predictions for new data, to crunch data or to perform data analysis. However, applying ML can be quite complex as it comes with many design decisions, each impacting the final performance. For example, to build a predictive pipeline, one must construct appropriate features, design workflows, pick the right algorithms, and tune their hyperparameters. Automated Machine Learning (AutoML) aims to automate this process and to make ML accessible to a wider audience, including domain experts and non-researchers.
+
+In this coding session, we focus on supervised classification with tabular data. You will learn the basics of Automated Machine Learning and how to use the Python-based AutoML tool Auto-sklearn developed at the Machine Learning Lab of the University of Freiburg.
+
+#### Requirements 
+We’ll do the exercises via Google-Colab, so you only need a laptop and an account. You can check your setup here: https://colab.research.google.com/drive/1-ToezX3hYomqPy4WqJLk2hvqoJzH5ji0. Also, we assume some experience with Python and basic ML knowledge.
+
 #### Time: 9:30 - 12:30
 To be announced
 #### Location: 
