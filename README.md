@@ -8,7 +8,7 @@ To ensure this cooperation also at the level of young scientists, we plan to bri
 
 ## Episode 3: coming soon!
 ### Date:     
-June 6th, 2023
+June 6th and June 7th 2023
 ### Day 1: Talks
 #### Time: 
 9:30am – 5:00pm
@@ -26,7 +26,26 @@ HSII, Albertstraße 23
 <br>
 (Please, tell us if you are interested in presenting your work in nextgen_ai, episode 3.)
 <br>
-The short talks are 5-10 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab! In this year's event, we are planning to invite master students as well. With this new format, short talks benefit PhD students who search for competent HiWi students to meet them in a friendly atmosphere. As a byproduct, master students can decide about their future based on more information.
+The short talks are 8 minutes long, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab! In this year's event, we are planning to invite master students as well. With this new format, short talks benefit PhD students who search for competent HiWi students to meet them in a friendly atmosphere. As a byproduct, master students can decide about their future based on more information.
+
+### Day 2: Workshop on AutoML with Auto-sklearn
+#### Time: 
+To be announced
+#### Location: 
+Stefan-Meier-Straße 26, Institute of Medical Biometry and Statistics
+#### Schedule: 
+
+| Time  |  Plan |
+|---|---|
+| 09:45-10:00 | Welcome |
+| 10:00-11:00 | Introduction |
+| 11:00-12:00 | Coding I |
+| 12:00-13:00 | Break |
+| 13:00-15:00 | Coding II |
+
+#### Registration:
+<a href ="https://docs.google.com/forms/d/e/1FAIpQLSeNnAIRvAKQvKgPY_GPEQpqMRojnqvrUOFW4pvtlyWgWeWTdA/viewform" > Register here!</a>
+<br>
 
 
 ## Episode 2
