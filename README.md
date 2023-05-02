@@ -50,8 +50,8 @@ In this coding session, we focus on supervised classification with tabular data.
 #### Requirements 
 We’ll do the exercises via Google-Colab, so you only need a laptop and an account. You can check your setup here: https://colab.research.google.com/drive/1-ToezX3hYomqPy4WqJLk2hvqoJzH5ji0. Also, we assume some experience with Python and basic ML knowledge.
 
-#### Time: 9:30 - 12:30
-To be announced
+#### Time: 
+9:30am - 12:30pm
 #### Location: 
 Stefan-Meier-Straße 26, Institute of Medical Biometry and Statistics
 #### Schedule: 
