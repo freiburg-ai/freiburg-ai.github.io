@@ -24,9 +24,9 @@ HSII, Albertstraße 23
 <br>
 * <b>Leon Sixt </b> (*Free University of Berlin*) 
 <br>
-    <b>Title:</b> Explainable AI: History, Progress, and Future Directions 
+<b>Title:</b> Explainable AI: History, Progress, and Future Directions 
 <br>
-    <b>Abstarct</b>: Explainable Artificial Intelligence (XAI) has become an essential aspect of AI research as the need for understanding and interpreting complex models grows in  parallel with their capabilities. In this talk, I will explore the history since the 70s and developments in XAI, discuss the limitations of current methods, and present my own work in evaluating explainability methods. I will begin by tracing the origins of explanations in AI and highlight the key advancements in the last years. I will then delve into the current state of the field, including established methods like Integrated Gradients, LIME, and SHAP, and their limitations. <br>
+<b>Abstarct</b>: Explainable Artificial Intelligence (XAI) has become an essential aspect of AI research as the need for understanding and interpreting complex models grows in  parallel with their capabilities. In this talk, I will explore the history since the 70s and developments in XAI, discuss the limitations of current methods, and present my own work in evaluating explainability methods. I will begin by tracing the origins of explanations in AI and highlight the key advancements in the last years. I will then delve into the current state of the field, including established methods like Integrated Gradients, LIME, and SHAP, and their limitations. <br>
 My research focuses on the evaluation of explainability methods, covering topics such as the examination of saliency maps and why some methods fail the sanity check, the evaluation of Deep Taylor Decomposition, and a user study on counterfactual explanations. I will also introduce the DNNR model, a simple and interpretable extension of KNN-regression. Lastly, I will discuss potential future research directions, including the evaluation of explanations and the development of explanations for large language models. This talk aims to provide a comprehensive overview of the challenges and progress in Explainable AI.
  <br>
  <br>
