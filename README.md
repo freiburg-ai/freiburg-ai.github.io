@@ -16,7 +16,11 @@ June 6th and June 7th 2023
 HSII, Albertstraße 23
 #### Speakers:
 * <b>Prof. Dr. Ribana Roscher </b> (*University of Bonn*)
-
+<br>
+<b>Title:</b> Generating the Unseen and Explaining the Seen
+<br>
+<b>Abstract:</b> Deep generative models and explainable machine learning are two emerging areas of data science that we can use to address current challenges in agricultural and environmental sciences. Deep generative models are neural networks that are capable of learning complex data distributions. In general, they can be used for a variety of applications, such as anomaly detection or prediction. Explainable machine learning, which analyzes the decision-making process of machine learning methods in more detail, is used whenever an explanation for the result is required in addition to the result. This can be done for various reasons, e.g., to increase confidence in the outcome or to derive new scientific knowledge that can be inferred from patterns in the decision process of the machine learning model. This talk addresses methods from both areas and provides examples of their application in agricultural and environmental sciences.
+<br>
 * <b>Leon Sixt </b> (*Free University of Berlin*) 
 <br>
     <b>Title:</b> Explainable AI: History, Progress, and Future Directions 
@@ -25,10 +29,7 @@ HSII, Albertstraße 23
 My research focuses on the evaluation of explainability methods, covering topics such as the examination of saliency maps and why some methods fail the sanity check, the evaluation of Deep Taylor Decomposition, and a user study on counterfactual explanations. I will also introduce the DNNR model, a simple and interpretable extension of KNN-regression. Lastly, I will discuss potential future research directions, including the evaluation of explanations and the development of explanations for large language models. This talk aims to provide a comprehensive overview of the challenges and progress in Explainable AI.
  <br>
 * <b>Stephan Alaniz </b> (*University of Tübingen*)
-<br>
-<b>Title:</b> Generating the Unseen and Explaining the Seen
-<br>
-<b>Abstract:</b> Deep generative models and explainable machine learning are two emerging areas of data science that we can use to address current challenges in agricultural and environmental sciences. Deep generative models are neural networks that are capable of learning complex data distributions. In general, they can be used for a variety of applications, such as anomaly detection or prediction. Explainable machine learning, which analyzes the decision-making process of machine learning methods in more detail, is used whenever an explanation for the result is required in addition to the result. This can be done for various reasons, e.g., to increase confidence in the outcome or to derive new scientific knowledge that can be inferred from patterns in the decision process of the machine learning model. This talk addresses methods from both areas and provides examples of their application in agricultural and environmental sciences.
+
           
 #### Short Talks:
 <b>Still Open!</b> 
