@@ -33,6 +33,13 @@ My research focuses on the evaluation of explainability methods, covering topics
 <br>
  
 * <b>Stephan Alaniz </b> (*University of Tübingen*)
+<br>
+<b>Title:</b> Explanations through Abstraction and Natural Language 
+<br>
+<b>Abstarct</b>: 
+Many real-world application now and in the future will require us to better understand the decision process of deep neural networks. In our research, we explore a diverse set of means of explainability. This talk deals with two such approaches: abstractions and natural language. In one part of the talk, I will discuss how we can learn abstractions of our data that can help both us, the humans, to understand the data semantically as well as the model in downstream tasks. In the other part, I will present how we can explain the internal decision making process of neural networks using natural language either in the form of semantic attributes or with the help of a language model to obtain full descriptions.
+<br>
+<br>
 
           
 #### Short Talks:
