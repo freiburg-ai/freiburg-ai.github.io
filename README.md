@@ -53,13 +53,13 @@ The short talks are eight minutes long plus two minutes discussion, and the inte
 | Time  |  Plan |
 |---|---|
 | 10:00-10:05 | Opening |
-| 10:05-11:00 | Talk I |
-| 11:00-12:00 | Talk II |
+| 10:05-11:00 | Talk I: Stephan Alaniz |
+| 11:00-12:00 | Talk II: Leon Sixt |
 | 12:00-13:30 | Lunch break |
 | 13:00-14:00 | Speed dating |
 | 14:00-15:30 | Short Talks |
 | 15:30-16:00 | Break |
-| 16:00-17:00 | Talk III |
+| 16:00-17:00 | Talk III: Prof. Dr. Ribana Roscher |
 | 17:00-Inf | Eating/Drinking together |
 
 ### Day 2: Workshop on AutoML with Auto-sklearn
