@@ -79,11 +79,8 @@ Stefan-Meier-Straße 26, Institute of Medical Biometry and Statistics
 
 | Time  |  Plan |
 |---|---|
-| 09:45-10:00 | Welcome |
-| 10:00-11:00 | Introduction |
-| 11:00-12:00 | Coding I |
-| 12:00-13:00 | Break |
-| 13:00-15:00 | Coding II |
+| 9:30-10:30 | Introduction |
+| 10:30-12:00 | Hands-On Coding Session |
 
 #### Registration:
 <a href ="https://docs.google.com/forms/d/e/1FAIpQLSeNnAIRvAKQvKgPY_GPEQpqMRojnqvrUOFW4pvtlyWgWeWTdA/viewform" > Register here!</a>
