@@ -43,11 +43,11 @@ Many real-world application now and in the future will require us to better unde
 
           
 #### Short Talks:
-<b>Still Open!</b> 
-<br>
-(Please, tell us if you are interested in presenting your work in nextgen_ai, episode 3.)
-<br>
-The short talks are eight minutes long plus two minutes discussion, and the intention is to introduce your work in an understandable way to those outside your immediate field. We encourage you to focus on the high-level approach you use so other researchers could get inspired by it regardless of the downstream applications. Remember that these short talks are an excellent opportunity to start some collaborations outside your lab! In this year's event, we are planning to invite master students as well. With this new format, short talks benefit PhD students who search for competent HiWi students to meet them in a friendly atmosphere. As a byproduct, master students can decide about their future based on more information.
+
+* <b>Klara Burger</b> (*Self-Adjusting Neural Networks for Inference in Population Genetics*)
+* <b>Moritz Hess</b> (*Interpretable deep generative approaches for small tabular data*)
+* <b>Thomas Müller</b> (*Bundling treatment paths from routine clinical data*)
+
 #### Schedule: 
 
 | Time  |  Plan |
