@@ -44,9 +44,9 @@ Many real-world application now and in the future will require us to better unde
           
 #### Short Talks:
 
-* <b>Klara Burger</b> (*Self-Adjusting Neural Networks for Inference in Population Genetics*)
-* <b>Moritz Hess</b> (*Interpretable deep generative approaches for small tabular data*)
-* <b>Thomas Müller</b> (*Bundling treatment paths from routine clinical data*)
+* <b>Klara Burger:</b> *Self-Adjusting Neural Networks for Inference in Population Genetics*
+* <b>Moritz Hess:</b> *Interpretable deep generative approaches for small tabular data*
+* <b>Thomas Müller:</b> *Bundling treatment paths from routine clinical data*
 
 #### Schedule: 
 
