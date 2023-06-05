@@ -56,8 +56,8 @@ Many real-world application now and in the future will require us to better unde
 | 10:05-11:00 | Talk I: Stephan Alaniz |
 | 11:00-12:00 | Talk II: Leon Sixt |
 | 12:00-13:30 | Lunch break |
-| 13:00-14:00 | Speed networking |
-| 14:00-15:30 | Short Talks |
+| 13:00-14:30 | Speed networking |
+| 14:30-15:30 | Short Talks |
 | 15:30-16:00 | Break |
 | 16:00-17:00 | Talk III: Prof. Dr. Ribana Roscher |
 | 17:00-Inf | Eating/Drinking together |
