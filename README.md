@@ -13,7 +13,7 @@ June 6th and June 7th 2023
 #### Time: 
 10:00am – 5:00pm
 #### Location: 
-HSII, Albertstraße 23
+HSII, Albertstraße 23b
 #### Speakers:
 * <b>Prof. Dr. Ribana Roscher </b> (*University of Bonn*)
 <br>
