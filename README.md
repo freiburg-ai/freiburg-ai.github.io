@@ -32,7 +32,7 @@ My research focuses on the evaluation of explainability methods, covering topics
 <br>
 <br>
  
-* <b>Stephan Alaniz </b> (*University of Tübingen*)
+* <b>Dr. Stephan Alaniz </b> (*University of Tübingen*)
 <br>
 <b>Title:</b> Explanations through Abstraction and Natural Language 
 <br>
