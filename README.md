@@ -53,7 +53,7 @@ Many real-world application now and in the future will require us to better unde
 | Time  |  Plan |
 |---|---|
 | 10:00-10:05 | Opening |
-| 10:05-11:00 | Talk I: Stephan Alaniz |
+| 10:05-11:00 | Talk I: Dr. Stephan Alaniz |
 | 11:00-12:00 | Talk II: Leon Sixt |
 | 12:00-13:30 | Lunch break |
 | 13:00-14:30 | Speed networking |
